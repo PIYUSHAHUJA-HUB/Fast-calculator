@@ -34,7 +34,9 @@ body{
 	font-size: 30px;
 }
 #keyboard{
-	height: 400px;
+	    height: fit-content;
+    top: 50px;
+    margin-top: 50px;
 }
 .operator, .number, .empty{
 	width: 50px;
